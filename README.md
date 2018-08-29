@@ -8,3 +8,4 @@ Training labels - https://web.njit.edu/~usman/courses/cs675_summer18/trueclass
 Test dataset - https://web.njit.edu/~usman/courses/cs675_summer18/testdata.gz
 
 ## Python Libraries
+### Pandas, Scikit-learn
