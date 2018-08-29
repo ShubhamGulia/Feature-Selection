@@ -7,5 +7,8 @@ Training dataset - https://web.njit.edu/~usman/courses/cs675_summer18/traindata.
 Training labels - https://web.njit.edu/~usman/courses/cs675_summer18/trueclass
 Test dataset - https://web.njit.edu/~usman/courses/cs675_summer18/testdata.gz
 
-## Python Libraries
-### Pandas, Scikit-learn
+Feature Selection method - Chi-Square 
+Classifier to train the model - Bagged SVM
+
+###Command line to run the program
+python projectML.py traindata trainlabels testdata
