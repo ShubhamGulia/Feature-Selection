@@ -4,7 +4,9 @@ Amongst all SNPs are 15 causal ones which means they and neighboring ones discri
 In the training are 4000 cases and 4000 controls. Task is to predict the labels of 2000 test individuals.
 
 Training dataset - https://web.njit.edu/~usman/courses/cs675_summer18/traindata.gz
+
 Training labels - https://web.njit.edu/~usman/courses/cs675_summer18/trueclass
+
 Test dataset - https://web.njit.edu/~usman/courses/cs675_summer18/testdata.gz
 
 Feature Selection method - Chi-Square 
