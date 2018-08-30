@@ -10,6 +10,7 @@ Training labels - https://web.njit.edu/~usman/courses/cs675_summer18/trueclass
 Test dataset - https://web.njit.edu/~usman/courses/cs675_summer18/testdata.gz
 
 Feature Selection method - Chi-Square 
+
 Classifier to train the model - Bagged SVM
 
 ### Command line to run the program
