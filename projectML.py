@@ -1,6 +1,6 @@
 '''
 Abdullah Kheruwala
-CS 675 : Machine Learning
+Shubham Gulia
 Machine learning project
 '''
 
